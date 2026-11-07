@@ -1,0 +1,21 @@
+# Files that stay in the repo but must NOT be uploaded to the live site
+.git
+.gitignore
+.assetsignore
+.oxlintrc.json
+README.md
+wrangler.toml
+
+# Internal design mockups (not part of the public website)
+desktop-1440.png
+desktop-footer.png
+desktop-full.png
+desktop-home.png
+desktop-proposal.png
+desktop-verified.png
+mobile-390.png
+mobile-expanded.png
+mobile-full.png
+mobile-home.png
+mobile-proposal.png
+mobile-verified.png
